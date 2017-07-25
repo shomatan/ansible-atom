@@ -16,4 +16,4 @@ echo "########################################################"
 
 echo "** Executing crowi-plus"
 
-exec npm run server:prod:container
+exec npm run server:prod
